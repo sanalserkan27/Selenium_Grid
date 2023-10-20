@@ -30,4 +30,5 @@ public class Grid_02 {
     // Idemizin terminalinden java -jar selenium-server-4.11.0.jar standalone komutu ile hub ve node olusturduk.
     // Bu sazede tum grid bilesenleri bir proje altinda toplanmis oldu.
 
+
 }
